@@ -18,6 +18,8 @@ namespace VS_2013_Demo
             // changes to be stashed
 
             // 1.1.5 changes
+
+            // more changes
         }
     }
 }
