@@ -15,6 +15,7 @@ namespace VS_2013_Demo
             // Introducing feature 1.1
 
             // Update to feature 1.1
+            // changes to be stashed
         }
     }
 }
