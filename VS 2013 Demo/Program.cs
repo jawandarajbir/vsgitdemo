@@ -13,6 +13,8 @@ namespace VS_2013_Demo
             // change number 1
 
             // Introducing feature 1.1
+
+            // Update to feature 1.1
         }
     }
 }
