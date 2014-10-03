@@ -20,6 +20,7 @@ namespace VS_2013_Demo
             // 1.1.5 changes
 
             // more changes
+            // some more changes
         }
     }
 }
